@@ -1,0 +1,111 @@
+body{
+    background-color: rgba(44, 44, 44, 1);
+}
+
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   flex-direction: column;
+  
+}
+
+
+.lol{
+    border: 2px solid rgba(255, 255, 255, 1);
+    width: 240px;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+ion-icon{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.k{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+.hr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+hr{
+    border: 2px solid rgba(255, 255, 255, 1);
+    width: 50px;
+}
+
+
+.section input {
+    width: 800px;
+    height: 49px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 40px;
+    cursor: pointer;
+    outline: none;
+    font-size: 20px;
+}
+
+.tion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    width: 822px;
+    height: 36px;
+    background-color: rgba(34, 34, 34, 1);
+    border: 1px rgba(34, 34, 34, 1);
+     color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+h1{
+     font-family: "Racing Sans One", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+.section button{
+    width: 142px;
+    height: 55px;
+    font-size: 25px;
+    background:  rgba(79, 79, 79, 1) ;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+    position: absolute;
+     right: 300px;
+     font-family: "Racing Sans One", sans-serif;
+}
+
+ul{
+   text-align: center; 
+   font-family: "Racing Sans One", sans-serif;
+}
+
+.r{
+    border: 1px solid rgba(255, 255, 255, 1);
+    width: 966px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
